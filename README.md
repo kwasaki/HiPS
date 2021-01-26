@@ -34,7 +34,7 @@ HiPS tool is developed at the Department of Computer Science and Engineering, Sh
 
 ## Platform available
 
-* Windows 10/8.1/8/7/Vista(x64) with .NET Framework 4
+* Windows 10/8.1/8 with .NET Framework 4
 
 ## HiPS version 1 (Place/Transition net)
 
